@@ -35,4 +35,4 @@ JS Prompt.
 - Test it out - can you create different programmers and run all the methods on them? Does each programmer maintain their own properties properly and independently of the other programmers? 
 
 - Bonus - ES6 Syntax: Use ES6 Syntax in your answer. Feel free to add new methods or properties to incorporate the syntax.
-# JS-Week3
+
