@@ -27,3 +27,10 @@ console.log(patient2.ssn); // output: undefined
 console.log(patient2.getName()); // output: name
 console.log(patient2.getSSN());  // output: ssn
 //console.log(patient2.pii.ssn); // Output: Error: Cannot read properties of undefined (reading 'ssn')
+
+//testing
+const patient1 = createPii("Jane Doe", "123-54-6789")
+console.log(patient1.name);
+console.log(patient1.ssn);
+console.log(patient1.getName());
+console.log(patient1.getSSN());
