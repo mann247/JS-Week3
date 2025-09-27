@@ -1,7 +1,4 @@
-# JSWeek3
-# July 30th, 2025
-
-JS Prompt.
+#JavaScript Practice
 
 #Easy: 
 - A local gym wants to implement an "exercise of the day" program where there is a free class for that day that promotes a certain exercise. 
@@ -36,3 +33,6 @@ JS Prompt.
 
 - Bonus - ES6 Syntax: Use ES6 Syntax in your answer. Feel free to add new methods or properties to incorporate the syntax.
 
+👩🏾‍💻 Author
+
+Coded by Nia for RoadtoHire
